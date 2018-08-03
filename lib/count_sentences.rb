@@ -4,7 +4,7 @@ class String
 
 #write a method that returns true if a string ends with a period, otherwise false.
   def sentence?
-    binding.pry
+  #  binding.pry
    self.end_with?(".")
     end
 
